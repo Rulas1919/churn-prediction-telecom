@@ -23,6 +23,8 @@ to identify churn risk and support early customer retention strategies.
 
 ## Visuals
 ![ROC Curve](roc_curve.png)
+The ROC curve illustrates the model’s ability to distinguish between customers who churn and those who do not.
+An AUC of approximately 0.85 indicates strong predictive performance and supports the use of the model for customer retention strategies.
 
 ## Technologies
 Python, pandas, NumPy, scikit-learn, Jupyter Notebook
