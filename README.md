@@ -22,7 +22,7 @@ predictive performance. The results show that customer data can be effectively u
 to identify churn risk and support early customer retention strategies.
 
 ## Visuals
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ## Technologies
 Python, pandas, NumPy, scikit-learn, Jupyter Notebook
